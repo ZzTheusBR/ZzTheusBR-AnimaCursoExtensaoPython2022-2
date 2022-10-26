@@ -13,7 +13,7 @@ print(nome)
 
 #Quando quiser exibir a frase "Minha idade é "completando com o conteúdo da variável idade
 #print("Minha idade é "+nome)
-print("Minha idade é "+str(idade)+"anos")
+print("Minha idade é "+str(idade)+" anos")
 print(f"Minha idade é {idade} anos")
 print("Minha idade é {} anos".format(idade))
 
